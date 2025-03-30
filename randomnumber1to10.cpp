@@ -37,3 +37,4 @@ int main() {
     guessTheNumber();
     return 0;
 }
+// i hope you like my code . i want to say thanks to you for the intership i would like to participate more intership like that . 
